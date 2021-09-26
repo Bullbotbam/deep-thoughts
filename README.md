@@ -4,9 +4,7 @@ social media application
 
 <br>
 
-<p style="align-contents: center;">
-<img  src='src/assets/cover/dbull_atx_logo.png' width='196' height='196'>
-</p>
+![deep thoughts](client/src/img/deep_thoughts.gif)
 
 ## Table of Contents
 
@@ -42,6 +40,7 @@ Other dependencies added are graphql, mongoose, node.js, express, react, apollo-
 
 ## Purpose
 
+![deep thoughts](client/src/img/deep-thoughts-mern-app.png)
 This project was built to showcase a design for social media app components.
 
 ## License
@@ -65,9 +64,9 @@ No testing was done for this app
 ## Dependencies
 
 <p>
-<img src="src/assets/logos/mongoose-js-logo.png" width="64" height="64">
-<img src="src/assets/logos/graphql.png" width="64" height="64">
-<img src="src/assets/logos/express-js-logo.png" width="64" height="64">
-<img src="src/assets/logos/reactjs.png" width="64" height="64">
-<img src="src/assets/logos/node-js-logo.png" width="64" height="64">
+<img src="client/src/img/mongoose-js-logo.png" width="64" height="64">
+<img src="client/src/img/graphql.png" width="64" height="64">
+<img src="client/src/img/express-js-logo.png" width="64" height="64">
+<img src="client/src/img/reactjs.png" width="64" height="64">
+<img src="client/src/img/node-js-logo.png" width="64" height="64">
 </p>
