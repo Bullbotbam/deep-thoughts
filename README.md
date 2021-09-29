@@ -13,7 +13,7 @@ social media application
 - [Purpose](#purpose)
 - [Contributing](#contributing)
 - [Issues](#issues)
-- [Tests](#tests)
+- [Links](#links)
 - [Dependencies_Used](#dependencies)
 
 ## Description
@@ -57,9 +57,9 @@ With support and assistance from the developer community at large.
 
 There may be slight challenges with all functionality as of initial deployment
 
-## Testing
+## Links
 
-No testing was done for this app
+[Deep Thoughts App Demo](https://nameless-escarpment-98092.herokuapp.com/)
 
 ## Dependencies
 
