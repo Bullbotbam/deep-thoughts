@@ -87,7 +87,7 @@ const resolvers = {
 					{ _id: thoughtId },
 					{
 						$push: {
-							ractions: { reactionBody, username: context.user.username },
+							reactions: { reactionBody, username: context.user.username },
 						},
 					},
 					{ new: true, runValidators: true }
