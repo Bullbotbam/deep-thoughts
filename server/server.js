@@ -38,7 +38,7 @@ app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
 
 mongoose.connect(
-	process.env.MONGODB_URI || 'mongodb://localhost/shop-shop-shop',
+	process.env.MONGODB_URI || 'mongodb://localhost/deep-thoughts',
 	{
 		useFindAndModify: false,
 		useNewUrlParser: true,
